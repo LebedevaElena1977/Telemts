@@ -11,6 +11,7 @@ public class Main {
             addBonus = 0;
         }
 
-        System.out.println("Бонус: " + (balance + addBalance + addBonus));
+        System.out.println("Итоговый счет: " + (balance + addBalance + addBonus));
+        System.out.println("Бонус: " + addBonus);
     }
 }
