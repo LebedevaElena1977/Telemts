@@ -7,7 +7,7 @@ public class Main {
 
         if (addBalance > 1000) {
             addBonus = addBalance / 100 * bonus;
-            } else {
+        } else {
             addBonus = 0;
         }
 
